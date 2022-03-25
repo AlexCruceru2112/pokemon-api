@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlexCruceru2112/pokemon-api/static/css/main.3d538b96.css",
+    "main.js": "/AlexCruceru2112/pokemon-api/static/js/main.c58086c1.js",
+    "index.html": "/AlexCruceru2112/pokemon-api/index.html",
+    "main.3d538b96.css.map": "/AlexCruceru2112/pokemon-api/static/css/main.3d538b96.css.map",
+    "main.c58086c1.js.map": "/AlexCruceru2112/pokemon-api/static/js/main.c58086c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d538b96.css",
+    "static/js/main.c58086c1.js"
+  ]
+}
