@@ -1,6 +1,6 @@
 {
-  "name": "react-context-redux",
-  "homepage": ".",
+  "name": "pokemon-api",
+  "homepage": "https://alexcruceru2112.github.io/pokemon-api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
